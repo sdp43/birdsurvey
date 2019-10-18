@@ -6,7 +6,7 @@
 
 Save Table
 
-hi
+Save small figure
 
 hello
 
